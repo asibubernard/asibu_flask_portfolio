@@ -1,8 +1,8 @@
 
 {
-  "name": "Flask Portfolio App",
+  "name": "AsibuflaskPortfolio App",
   "description": "A simple portfolio app built with python",
-  "repository": "https://github.com/driftyco/ionic-heroku-button",
+  "repository": "https://github.com/asibubernard/asibu_flask_portfolio",
   "logo": "http://www.unixstickers.com/image/data/stickers/flask/Flask-logo.sh.png",
   "keywords": ["Flask", "Portfolio"]
 }
