@@ -1,7 +1,0 @@
-setup.py
-asibu_flask_portfolio/__init__.py
-asibu_flask_portfolio.egg-info/PKG-INFO
-asibu_flask_portfolio.egg-info/SOURCES.txt
-asibu_flask_portfolio.egg-info/dependency_links.txt
-asibu_flask_portfolio.egg-info/requires.txt
-asibu_flask_portfolio.egg-info/top_level.txt
